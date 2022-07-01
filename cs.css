@@ -1,0 +1,13 @@
+/* Basic Style */
+body {
+    background: tan;
+    color: #333;
+    font-family: Lato, sans-serif;
+    padding: 60px;
+  }
+  .container {
+    display: block;
+    width: 400px;
+    margin: 100px auto 0;
+  }
+  
